@@ -14,7 +14,7 @@ System.out.println("Gpa= ");
 double gpa=input.nextDouble();
 System.out.println("Mobile No= ");
 long tp=input.nextLong();
-
+//bio data
 System.out.println("Name:<" +name +">" );
 System.out.println("Age:<" +age +">");
 System.out.println("Gender:<" +gender +">");
