@@ -22,6 +22,6 @@ System.out.println("Gpa:<"+gpa +">");
 System.out.println("Mobile Number:<"+tp +">");
 
 
-
+//details
 }
 }
